@@ -1,0 +1,72 @@
+Stage statistics:
+Height: height of blastzone measured from the floor of the stage
+Width: width of stage (ledge to ledge)
+
+Kingdom:
+- height: 11
+- width: 22
+
+Kingdom 2:
+- height: 15
+- width: 15
+
+Palace:
+- height: 13
+- width: 28
+
+Ice Mountain:
+- height: 13
+- width: 17
+
+Bowser's Castle:
+- height: 12
+- width: 26
+
+Brinstar:
+- height: 12
+- width: 19
+
+Ridley's Hideout:
+- height: 14
+- width: 14
+
+Meta Crystal:
+- height: 11
+- width: 18
+
+Battlefield:
+- height: 13
+- width: 18
+
+Crime City:
+- height: 13
+- width: 19
+
+Gotham City:
+- height: 18
+- width: 21
+
+Ragnarok Canyon:
+- height: 14
+- width: 16
+
+Wily's Castle
+- height: 14
+- width: 24
+
+Jungle: 
+- height: 11
+- width: 22
+
+Castlevania:
+- height: 14
+- width: 18
+
+Zofia Castle:
+- height: 12
+- width: 24
+
+
+Coffin Room:
+- height: 13
+- width: 24

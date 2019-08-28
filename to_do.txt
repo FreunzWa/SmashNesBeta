@@ -1,0 +1,19 @@
+
+=================================================
+Bug list:
+- Link's and Samus's grabs do not work
+
+
+
+
+=================================================
+Balances for consideration:
+- 
+
+
+
+
+
+
+=================================================
+Changes/ Additions to game for consideration:
