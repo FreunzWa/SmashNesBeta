@@ -1,0 +1,44 @@
+### Adventure plans
+Stages:
+* Platformer levels with enemies, vs. Battles vs. unplayable Bosses, vs. multiple characters
+Mushroom Kingdom
+- Level 1-1
+- Bowser's Castle (vs. Bowser)
+Hyrule
+- Temple Maze (vs. Horsehead)
+Metroid
+- Defeat Samus
+- Escape sequence
+- vs. Kraid in Brinstar Depths
+Castlevania
+- Dracula's Castle Level
+- Vs. Grim Reaper
+Excitebike:
+- Race stage, must finish within certain time
+Battletoad:
+- Level
+- Vs. Dark Queen
+Contra:
+- 
+
+### Unlock plans
+Starting roster:
+- Mario
+- Megaman
+- Link
+- Samus
+- Battletoad
+- Excitebike
+- Bowser
+- Peach
+
+
+### New Character plans:
+In order of likelihood:
+1) Balloon Fighter
+2) Kirby
+3) Alucard
+4) Little Mac
+5) DK Junior
+6) Toad
+7) Kraid
