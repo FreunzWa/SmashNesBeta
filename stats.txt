@@ -70,3 +70,7 @@ Zofia Castle:
 Coffin Room:
 - height: 13
 - width: 24
+
+Ice Cream Island:
+- height: 13
+- width: 16
