@@ -71,6 +71,6 @@ Coffin Room:
 - height: 13
 - width: 24
 
-Ice Cream Island:
-- height: 13
-- width: 16
+Whispy Woods:
+- height: 16
+- width: 19
